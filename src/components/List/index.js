@@ -55,7 +55,7 @@ function ListMusics({isClicked}) {
           onChange={(e) => setSearchList(e.target.value)}
         ></input>
       </Search>
-      <h1>Em alta</h1>
+      <h1>Musicas</h1>
 
       <div className="indexWrapper">
         
