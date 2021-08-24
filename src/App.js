@@ -21,7 +21,6 @@ function App() {
       setToken(_token);
     }
     
-    console.log('i have a token', hash)
   }, []);
 
   return (
